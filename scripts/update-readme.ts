@@ -115,29 +115,17 @@ function buildVideoCell(status: VideoStatus, cross: boolean): string {
   switch (status.kind) {
     case "both":
       return [
-        "<table><tr>",
-        `<td align="center"><b>iOS</b><br><video src="${status.ios}" width="240"></video></td>`,
-        `<td align="center"><b>Android</b><br><video src="${status.android}" width="240"></video></td>`,
-        "</tr></table>",
+        `**iOS**<br><video src="${status.ios}" width="300"></video>`,
+        `<br>**Android**<br><video src="${status.android}" width="300"></video>`,
       ].join("");
 
     case "ios_only":
       if (!cross) return `<video src="${status.ios}" width="300"></video>`;
-      return [
-        "<table><tr>",
-        `<td align="center"><b>iOS</b><br><video src="${status.ios}" width="280"></video></td>`,
-        `<td align="center"><b>Android</b><br>⏳</td>`,
-        "</tr></table>",
-      ].join("");
+      return `**iOS**<br><video src="${status.ios}" width="300"></video><br>**Android** ⏳`;
 
     case "android_only":
       if (!cross) return `<video src="${status.android}" width="300"></video>`;
-      return [
-        "<table><tr>",
-        `<td align="center"><b>iOS</b><br>⏳</td>`,
-        `<td align="center"><b>Android</b><br><video src="${status.android}" width="280"></video></td>`,
-        "</tr></table>",
-      ].join("");
+      return `**iOS** ⏳<br>**Android**<br><video src="${status.android}" width="300"></video>`;
 
     case "single":
       return `<video src="${status.video}" width="300"></video>`;
