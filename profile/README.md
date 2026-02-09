@@ -25,7 +25,7 @@ Real PRs. Real apps. Every video below was **automatically generated** by Shippy
 |:----|:----------|:-------------|:--------------|
 | **Confetti App** | `Android (Kotlin)` | [feat: add color theme picker for confetti](https://github.com/shipyard-ide/my_android_confetti_app/pull/1) | <video src="https://github.com/user-attachments/assets/adad895a-80b3-4f43-8758-7e8ec5e26791" width="300"></video> |
 | **Instacart** | `Expo / React Native` | [feat: add animated toast when items added to cart](https://github.com/shipyard-ide/my_expo_instacart/pull/1) | **iOS**<br><video src="https://github.com/user-attachments/assets/57f6bd66-04f6-491b-8789-2aded799228d" width="300"></video><br>**Android**<br><video src="https://github.com/user-attachments/assets/b53b6655-9ab3-406b-8221-9cee9c1191d2" width="300"></video> |
-| **Pokedex** | `Expo / React Native` | [feat: add Who's That Pokémon quiz game](https://github.com/shipyard-ide/my_expo_pokedex/pull/1) | **iOS**<br><video src="https://github.com/user-attachments/assets/93c9c3a3-b717-471f-be6d-72e51f5969e8" width="300"></video><br>**Android**<br><video src="https://github.com/user-attachments/assets/7ee25236-80b2-4113-9050-b871c5770fc2" width="300"></video> |
+| **Pokedex** | `Expo / React Native` | [feat: add Who's That Pokémon quiz game](https://github.com/shipyard-ide/my_expo_pokedex/pull/1) | **iOS**<br><video src="https://github.com/user-attachments/assets/7062ca0f-dc41-42d8-bc6f-7a03b5c6c421" width="300"></video><br>**Android**<br><video src="https://github.com/user-attachments/assets/c4b1d672-d8c8-43df-99ad-f16ead83f384" width="300"></video> |
 | **Sparkler App** | `Flutter` | [feat: add tap to cycle sparkler color themes](https://github.com/shipyard-ide/my_flutter_sparkler_app/pull/1) | <video src="https://github.com/user-attachments/assets/e13ade84-7441-40d8-9541-7dc63eecb17f" width="300"></video> |
 | **Stopwatch** | `Flutter` | [Highlight best and worst laps](https://github.com/shipyard-ide/my_flutter_stopwatch/pull/1) | **iOS**<br><video src="https://github.com/user-attachments/assets/847f1bd0-192f-4b28-ad6e-1e4508834a85" width="300"></video><br>**Android**<br><video src="https://github.com/user-attachments/assets/3de7d843-23e7-41ef-88c3-9c233e28ff63" width="300"></video> |
 | **Twitter App** | `Flutter` | [feat: add double-tap toanimated heart overlay](https://github.com/shipyard-ide/my_flutter_twitter_app/pull/1) | **iOS**<br><video src="https://github.com/user-attachments/assets/f9062ff2-1809-40db-beb3-1aa2ce03fdd2" width="300"></video><br>**Android**<br><video src="https://github.com/user-attachments/assets/9e249f59-8d4d-474f-89ea-27cb175e37e0" width="300"></video> |
@@ -44,6 +44,6 @@ Real PRs. Real apps. Every video below was **automatically generated** by Shippy
 
 Just install the GitHub app and push to a PR. That's it.
 
-<sub>Last updated 2026-02-09 08:39 UTC · Refreshed automatically twice daily</sub>
+<sub>Last updated 2026-02-09 20:31 UTC · Refreshed automatically twice daily</sub>
 
 </div>
