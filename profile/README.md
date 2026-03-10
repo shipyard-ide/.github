@@ -26,7 +26,7 @@ Real PRs. Real apps. Every video below was **automatically generated** by Shippy
 | **Confetti App** | `Android (Kotlin)` | [feat: add color theme picker for confetti](https://github.com/shipyard-ide/my_android_confetti_app/pull/1) | <video src="https://github.com/user-attachments/assets/adad895a-80b3-4f43-8758-7e8ec5e26791" width="300"></video> |
 | **Instacart** | `Expo / React Native` | [feat: add animated toast when items added to cart](https://github.com/shipyard-ide/my_expo_instacart/pull/1) | **iOS**<br><video src="https://github.com/user-attachments/assets/be2ef4a9-9ebc-456f-b78f-960b874a4765" width="300"></video><br>**Android**<br><video src="https://github.com/user-attachments/assets/299a039c-173e-43f4-ab84-85a9c92c23a3" width="300"></video> |
 | **Pokedex** | `Expo / React Native` | [feat: add Who's That Pokémon quiz game](https://github.com/shipyard-ide/my_expo_pokedex/pull/1) | **iOS**<br><video src="https://github.com/user-attachments/assets/fbff144d-def9-4310-a561-68e4e9bed627" width="300"></video><br>**Android**<br><video src="https://github.com/user-attachments/assets/1ee37d23-430c-4a37-9558-fb9bc3063b09" width="300"></video> |
-| **Sparkler App** | `Flutter` | [feat: add tap to cycle sparkler color themes](https://github.com/shipyard-ide/my_flutter_sparkler_app/pull/1) | ⏳ *Pending* |
+| **Sparkler App** | `Flutter` | [feat: add tap to cycle sparkler color themes](https://github.com/shipyard-ide/my_flutter_sparkler_app/pull/1) | <video src="https://github.com/user-attachments/assets/e13ade84-7441-40d8-9541-7dc63eecb17f" width="300"></video> |
 | **Stopwatch** | `Flutter` | [Highlight best and worst laps](https://github.com/shipyard-ide/my_flutter_stopwatch/pull/1) | **iOS**<br><video src="https://github.com/user-attachments/assets/847f1bd0-192f-4b28-ad6e-1e4508834a85" width="300"></video><br>**Android**<br><video src="https://github.com/user-attachments/assets/3de7d843-23e7-41ef-88c3-9c233e28ff63" width="300"></video> |
 | **Twitter App** | `Flutter` | [feat: add double-tap toanimated heart overlay](https://github.com/shipyard-ide/my_flutter_twitter_app/pull/1) | <video src="https://github.com/user-attachments/assets/efbc4b3e-c318-4fbc-b169-eb68220c6f4f" width="300"></video> |
 | **Calendar** | `SwiftUI` | [feat: add confetti celebration when adding events](https://github.com/shipyard-ide/my_ios_calendar/pull/1) | <video src="https://github.com/user-attachments/assets/1bb3b700-53a7-477d-a87e-0410559ad4bc" width="300"></video> |
@@ -44,6 +44,6 @@ Real PRs. Real apps. Every video below was **automatically generated** by Shippy
 
 Just install the GitHub app and push to a PR. That's it.
 
-<sub>Last updated 2026-03-10 08:30 UTC · Refreshed automatically twice daily</sub>
+<sub>Last updated 2026-03-10 20:23 UTC · Refreshed automatically twice daily</sub>
 
 </div>
