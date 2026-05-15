@@ -44,6 +44,6 @@ Real PRs. Real apps. Every video below was **automatically generated** by Shippy
 
 Just install the GitHub app and push to a PR. That's it.
 
-<sub>Last updated 2026-05-15 08:59 UTC · Refreshed automatically twice daily</sub>
+<sub>Last updated 2026-05-15 20:24 UTC · Refreshed automatically twice daily</sub>
 
 </div>
